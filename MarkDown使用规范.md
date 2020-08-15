@@ -33,12 +33,14 @@ wclean all
     * 翻译过程中用到的图片，请使用链接进行显示，链接采用相对路径
     * 具体形式为 \!\[图像说明\]\(图像地址\)，示例：\!\[图像1\]\(images/82.PNG\)
     * 显示效果如下：
+
 ![图像1](images/82.PNG)
     * 请一定注意后缀名为大写的PNG，如写为小写将导致无法正常显示（血泪）
 
 5. 关于公式
     * 需要插入数学公式时，使用两个美元符 $$ 包裹 TeX 或 LaTeX 格式的数学公式来实现
     * 示例如下
+```
 $$
 \mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix} 
 \mathbf{i} & \mathbf{j} & \mathbf{k} \\
@@ -47,3 +49,4 @@ $$
 \end{vmatrix}
 ${$tep1}{\style{visibility:hidden}{(x+1)(x+1)}}
 $$
+```
