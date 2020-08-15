@@ -35,11 +35,12 @@ wclean all
     * 显示效果如下：
 
 ![图像1](images/82.PNG)
+
     * 请一定注意后缀名为大写的PNG，如写为小写将导致无法正常显示（血泪）
 
 5. 关于公式
     * 需要插入数学公式时，使用两个美元符 $$ 包裹 TeX 或 LaTeX 格式的数学公式来实现
-    * 示例如下
+    * 例如如下代码
 ```
 $$
 \mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix} 
@@ -50,3 +51,17 @@ $$
 ${$tep1}{\style{visibility:hidden}{(x+1)(x+1)}}
 $$
 ```
+
+    * 显示效果为：
+$$
+\mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix} 
+\mathbf{i} & \mathbf{j} & \mathbf{k} \\
+\frac{\partial X}{\partial u} &  \frac{\partial Y}{\partial u} & 0 \\
+\frac{\partial X}{\partial v} &  \frac{\partial Y}{\partial v} & 0 \\
+\end{vmatrix}
+${$tep1}{\style{visibility:hidden}{(x+1)(x+1)}}
+$$
+    
+    * 如果感觉有难度，可以先把公式留出来，后面再找熟悉的同学统一来编写
+
+6. 目前想到这么多，如果有新的规范再添加
