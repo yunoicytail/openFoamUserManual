@@ -8,31 +8,18 @@
 ### 目前翻译章节认领情况：
 
 1. Getting help----poplee
-
 2. Lessons learned----poplee
-
 3. Install OpenFOAM----bjorn
-
 4. Updating the repository release of OpenFOAM----poplee
-
 9. Units and dimensions----Samuel Tu
-
 12. Usage of OpenFOAM----zhuobin
-
 13. Mesh basics----bjorn
-
 14. Geometry creation & other pre-processing software----bjorn
-
 15. blockMesh----bjorn
-
 32. Turbulence-Models----bjorn
-
 38. The MRF method ----skf0558
-
 39. fvOption framework----skf0558
-
 49. functions----skf0558
-
 
 ### 协作翻译MarkDown格式规范
 
