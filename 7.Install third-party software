@@ -1,8 +1,0 @@
-###7 第三方软件安装###
-本章所述的软件是可选的，没有这些软件OpenFOAM也可以完整、完美地运行。但是在一些特定的任务中，这些软件可能非常有用。
-####7.1 安装*pyFoam*####
-参考<http://openfoamwiki.net/index.php/Contrib_PyFoam#Istallation>网站中关于*pyFoam*安装的相关信息。
-####7.2 安装*swak4foam*####
-参考<http://openfoamwiki.net/index.php/Contrib/swak4foam>网站中关于*swak4foam*安装的相关信息。
-####7.3 编译外部函数库####
-用外部函数库来扩展OpenFOAM的功能是可以做到的，也就是说这些OpenFOAM函数库来自其他开源代码，而不是OpenFOAM的开发者们。
