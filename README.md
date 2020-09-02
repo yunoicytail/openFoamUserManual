@@ -7,25 +7,25 @@
 
 ### 目前翻译章节认领情况：
 
-1. Getting help----poplee
-2. Lessons learned----poplee
+1 . Getting help----poplee
+2 . Lessons learned----poplee
 3. Install OpenFOAM----bjorn
-4. Updating the repository release of OpenFOAM----poplee
-7. Install third-party software----fanswords
-9. Units and dimensions----Samuel Tu
-10. Files and directories----fanswords
-11. Controlling OpenFOAM----fanswords
-12. Usage of OpenFOAM----zhuobin
-13. Mesh basics----bjorn
-14. Geometry creation & other pre-processing software----bjorn
-15. blockMesh----bjorn
-32. Turbulence-Models----bjorn
-38. The MRF method ----skf0558
-39. fvOption framework----skf0558
-40. The Lagrangian world---邵姝婧
-49. functions----skf0558
-50. sample----skf0558
-52. postProcess----skf0558
+4 . Updating the repository release of OpenFOAM----poplee
+7 . Install third-party software----fanswords
+9 . Units and dimensions----Samuel Tu
+10 . Files and directories----fanswords
+11 . Controlling OpenFOAM----fanswords
+12 . Usage of OpenFOAM----zhuobin
+13 . Mesh basics----bjorn
+14 . Geometry creation & other pre-processing software----bjorn
+15 . blockMesh----bjorn
+32 . Turbulence-Models----bjorn
+38 . The MRF method ----skf0558
+39 . fvOption framework----skf0558
+40 . The Lagrangian world---邵姝婧
+49 . functions----skf0558
+50 . sample----skf0558
+52 . postProcess----skf0558
 
 ### 协作翻译MarkDown格式规范
 
