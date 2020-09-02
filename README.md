@@ -11,7 +11,7 @@
 
 2 . Lessons learned----poplee
 
-3. Install OpenFOAM----bjorn
+3 . Install OpenFOAM----bjorn
 
 4 . Updating the repository release of OpenFOAM----poplee
 
