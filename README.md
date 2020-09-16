@@ -15,6 +15,10 @@
 
 4 . Updating the repository release of OpenFOAM----poplee
 
+5 . Updating OpenFOAM-6 source installation----poplee
+
+6 . Maintaining your OpenFOAM installation----poplee
+
 7 . Install third-party software----fanswords
 
 9 . Units and dimensions----Samuel Tu
@@ -46,6 +50,12 @@
 50 . sample----skf0558
 
 52 . postProcess----skf0558
+
+56 . Understanding some C and C++----luofq
+
+57 . Under the hood of OpenFOAM----luofq
+
+58 . General remarks on OpenFOAM programming----luofq
 
 
 ### 协作翻译MarkDown格式规范
