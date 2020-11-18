@@ -1,3 +1,3 @@
 $$
-a=\left{\right}\tag{37}
+a=\left(x\right)
 $$
