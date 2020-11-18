@@ -1,3 +1,3 @@
 $$
-a=\left(x\right)
+a=\left{x\right)
 $$
