@@ -1,3 +1,3 @@
 $$
-a=\left{\tag{37}
+a=\left{\right}\tag{37}
 $$
